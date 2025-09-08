@@ -33,7 +33,7 @@ Sou desenvolvedor web com foco em backend PHP/Laravel e boas práticas de arquit
 
 ## 🚀 Projetos em destaque
 - **Academia (Laravel):** autenticação JWT, documentação Swagger, filas com RabbitMQ, WebSockets em tempo real, AdminLTE no front, Docker para dev. Tecnologias: Laravel, MySQL, Redis, RabbitMQ, Docker. Repositório: https://github.com/agostneto/academia
-- [Adicione aqui outro projeto relevante] Breve descrição do que resolve, principais tecnologias e link do repositório.
+- **PowerFit Academy:** Sistema completo de gestão para academias com controle de alunos, planos, financeiro e agendamentos. Inclui painel administrativo, área do aluno e integração com gateways de pagamento. Desenvolvido com Laravel, MySQL, Bootstrap e JavaScript. Site: https://powerfitacademy.com.br/
 
 ## 📊 Estatísticas do GitHub
 ![Agostinho Neto's GitHub stats](https://github-readme-stats.vercel.app/api?username=agostneto&show_icons=true&theme=radical)
